@@ -12,7 +12,7 @@ mi = str(now.minute)
 ss = str(now.second)
 free = mm + "/" + dd + "/" + yyyy
 
-admin=1920601678
+admin=11111111 # id in telegram
 admin_change="null"
 # Start 
 admin_or_no ="""
